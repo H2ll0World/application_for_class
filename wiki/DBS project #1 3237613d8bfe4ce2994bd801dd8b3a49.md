@@ -29,6 +29,7 @@ macOS Monterey 12.3.1
 기본적으로 제공해준 스키마를 사용했지만, 약간의 수정이 있습니다.
 
 장바구니 table은 wishList table로 이름을 지었고, 장바구니 기능을 위해 만들었습니다.
+https://github.com/H2ll0World/application_for_class/tree/main/wiki/DBS%20project%20%231%203237613d8bfe4ce2994bd801dd8b3a49
 
 CreditsTable에 year가 2022인 강좌를 현재학기에 스강중인 강좌로 보고 진행하였습니다. 그렇기때문에 현재 수강중인 class를 구별하기 위하여 class_id도 추가하였습니다.
 
