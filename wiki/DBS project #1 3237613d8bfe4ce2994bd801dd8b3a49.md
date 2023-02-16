@@ -24,12 +24,11 @@ macOS Monterey 12.3.1
 
 **SECHEMA 디자인**
 
-![스크린샷 2022-11-08 오전 11.44.01.png]([htt](https://github.com/H2ll0World/application_for_class/tree/main/wiki/DBS%20project%20#1%203237613d8bfe4ce2994bd801dd8b3a49/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-08_%25EC%2598%25A4%25EC%25A0%2584_11.44.01.png?raw=ture)
+![스크린샷 2022-11-08 오전 11.44.01.png](https://github.com/H2ll0World/application_for_class/blob/main/wiki/DBS%20project%20#1%203237613d8bfe4ce2994bd801dd8b3a49/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-08_%25EC%2598%25A4%25EC%25A0%2584_11.44.01.png?raw=ture)
 
 기본적으로 제공해준 스키마를 사용했지만, 약간의 수정이 있습니다.
-
+https://github.com/H2ll0World/application_for_class/blob/main/wiki/DBS%20project%20%231%203237613d8bfe4ce2994bd801dd8b3a49/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-10-31_%25EC%2598%25A4%25ED%259B%2584_4.38.44.png
 장바구니 table은 wishList table로 이름을 지었고, 장바구니 기능을 위해 만들었습니다.
-https://github.com/H2ll0World/application_for_class/tree/main/wiki/DBS%20project%20%231%203237613d8bfe4ce2994bd801dd8b3a49
 
 CreditsTable에 year가 2022인 강좌를 현재학기에 스강중인 강좌로 보고 진행하였습니다. 그렇기때문에 현재 수강중인 class를 구별하기 위하여 class_id도 추가하였습니다.
 
