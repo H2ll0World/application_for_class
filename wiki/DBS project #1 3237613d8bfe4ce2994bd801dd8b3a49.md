@@ -471,13 +471,13 @@ course_name : ‘수리’로 검색
 
 ![스크린샷 2022-11-08 오후 3.58.31.png](https://user-images.githubusercontent.com/104723794/219259401-fa683e0b-6a4f-42c3-a46f-5b75a596b069.png)
 
-![스크린샷 2022-11-08 오후 6.44.28.png](https://user-images.githubusercontent.com/104723794/219259404-625d1c5a-7866-4006-ad4e-9f32ac32b07e.png)
+![스크린샷 2022-11-08 오후 6.44.28.png](https://user-images.githubusercontent.com/104723794/219259468-0e1ad8e2-7a02-45a4-99d3-56c49e27092b.png)
 
-![스크린샷 2022-11-08 오후 3.58.35.png](https://user-images.githubusercontent.com/104723794/219259406-c449a3f3-88c1-4edf-8274-37ec363a88f7.png)
+![스크린샷 2022-11-08 오후 3.58.35.png](https://user-images.githubusercontent.com/104723794/219259404-625d1c5a-7866-4006-ad4e-9f32ac32b07e.png)
 
 제약조건을 검사하고 알림이 나오고 신청완료되면 신청완료 알람이 나옵니다.
 
-![스크린샷 2022-11-08 오후 3.58.42.png]()
+![스크린샷 2022-11-08 오후 3.58.42.png](https://user-images.githubusercontent.com/104723794/219259406-c449a3f3-88c1-4edf-8274-37ec363a88f7.png)
 
 신청리스트를 보면 정상적으로 신청됬음을 알 수 있습니다.
 
@@ -485,11 +485,11 @@ course_name : ‘수리’로 검색
 
 현재 수강 리스트
 
-![스크린샷 2022-11-08 오후 3.58.42.png]()
+![스크린샷 2022-11-08 오후 3.58.42.png](https://user-images.githubusercontent.com/104723794/219259406-c449a3f3-88c1-4edf-8274-37ec363a88f7.png)
 
-![스크린샷 2022-11-08 오후 4.02.13.png]()
+![스크린샷 2022-11-08 오후 4.02.13.png](https://user-images.githubusercontent.com/104723794/219259410-419231c4-7ab2-49e4-a93d-4dd65764d89c.png)
 
-![스크린샷 2022-11-08 오후 4.02.19.png]()
+![스크린샷 2022-11-08 오후 4.02.19.png](https://user-images.githubusercontent.com/104723794/219259413-a983b76d-2162-459d-aedb-b70fd51f1e44.png)
 
 정상적으로 수강취소 된 것을 알 수 있습니다.
 
@@ -497,41 +497,41 @@ course_name : ‘수리’로 검색
 
 현재 희망수업
 
-![스크린샷 2022-11-08 오후 4.02.19.png]()
+![스크린샷 2022-11-08 오후 4.02.19.png](https://user-images.githubusercontent.com/104723794/219259413-a983b76d-2162-459d-aedb-b70fd51f1e44.png)
 
 수업번호 10007 희망수업에 담음
 
-![스크린샷 2022-11-08 오후 4.06.54.png]()
+![스크린샷 2022-11-08 오후 4.06.54.png](https://user-images.githubusercontent.com/104723794/219259415-2d41ba09-7f00-46da-8c64-0a37e57c3ad8.png)
 
-![스크린샷 2022-11-08 오후 4.06.58.png]()
+![스크린샷 2022-11-08 오후 4.06.58.png](https://user-images.githubusercontent.com/104723794/219259419-8b72f012-2b0c-4caf-9672-14860454fca5.png)
 
-![스크린샷 2022-11-08 오후 4.07.07.png]()
+![스크린샷 2022-11-08 오후 4.07.07.png](https://user-images.githubusercontent.com/104723794/219259422-8e3e126c-3c12-46ea-843f-a21e1a2d33d4.png)
 
 희망수업에 담긴 것을 볼 수 있다.
 
 희망수업 취소
 
-![스크린샷 2022-11-08 오후 4.07.07.png]()
+![스크린샷 2022-11-08 오후 4.07.07.png](https://user-images.githubusercontent.com/104723794/219259424-2b5888fc-fa70-4f3e-bde3-3ac09e9f42bd.png)
 
-![스크린샷 2022-11-08 오후 4.08.43.png]()
+![스크린샷 2022-11-08 오후 4.08.43.png](https://user-images.githubusercontent.com/104723794/219259427-f21b192b-402e-492b-ae44-1e1a44f792c5.png)
 
-![스크린샷 2022-11-08 오후 4.08.47.png]()
+![스크린샷 2022-11-08 오후 4.08.47.png](https://user-images.githubusercontent.com/104723794/219259429-c9191fcd-6a3b-46cd-b5cf-e77e56769bb9.png)
 
 희망수업이 취소된 것을 볼 수 있다.
 
 시간표기능
 
-![스크린샷 2022-11-08 오후 4.08.47.png]()
+![스크린샷 2022-11-08 오후 4.08.47.png](https://user-images.githubusercontent.com/104723794/219259429-c9191fcd-6a3b-46cd-b5cf-e77e56769bb9.png)
 
-![스크린샷 2022-11-08 오후 4.10.05.png]()
+![스크린샷 2022-11-08 오후 4.10.05.png](https://user-images.githubusercontent.com/104723794/219259430-2d79a4a5-0535-4346-9861-1e71da1e116a.png)
 
 현재 수강중인 강좌와 비교해 보면 정상적으로 시간표가 보이는 것을 알 수 있다.
 
 로그아웃
 
-![스크린샷 2022-11-08 오후 4.08.47.png]()
+![스크린샷 2022-11-08 오후 4.08.47.png](https://user-images.githubusercontent.com/104723794/219259429-c9191fcd-6a3b-46cd-b5cf-e77e56769bb9.png)
 
-![스크린샷 2022-11-08 오후 4.11.41.png]()
+![스크린샷 2022-11-08 오후 4.11.41.png](https://user-images.githubusercontent.com/104723794/219259433-87b3738f-bd87-4150-93c8-4fd39c74e257.png)
 
 로그아웃시 logoutAction.jsp에서 처리해주고 main.jsp로 이동함
 
@@ -539,11 +539,11 @@ course_name : ‘수리’로 검색
 
 관리자 로그인
 
-![스크린샷 2022-11-08 오후 4.19.16.png]()
+![스크린샷 2022-11-08 오후 4.19.16.png](https://user-images.githubusercontent.com/104723794/219259434-59058644-405d-45d1-97d3-ed43a2816d6a.png)
 
-![스크린샷 2022-11-08 오후 4.19.20.png]()
+![스크린샷 2022-11-08 오후 4.19.20.png](https://user-images.githubusercontent.com/104723794/219259436-1b177ca5-8acf-4301-b174-c9e1f83075e4.png)
 
-![스크린샷 2022-11-08 오후 4.20.26.png]()
+![스크린샷 2022-11-08 오후 4.20.26.png](https://user-images.githubusercontent.com/104723794/219259439-cabc42ae-489a-4a76-9259-17adb2001087.png)
 
 관리자로 로그인지 loginAction.jsp에서 처리해서 admin.jsp로 이동함
 
@@ -551,43 +551,43 @@ course_name : ‘수리’로 검색
 
 정보를 조회할 학생의 학번을 입력하면 그 학생에 대한 정보를 얻거나 수정할 수 있다.
 
-![스크린샷 2022-11-08 오후 4.21.41.png]()
+![스크린샷 2022-11-08 오후 4.21.41.png](https://user-images.githubusercontent.com/104723794/219259442-e7bff348-fd55-4c48-897f-1b3a379ef746.png)
 
-![스크린샷 2022-11-08 오후 4.21.54.png]()
+![스크린샷 2022-11-08 오후 4.21.54.png](https://user-images.githubusercontent.com/104723794/219259446-129d7b23-c2c6-4903-b0c8-f57214545103.png)
 
-![스크린샷 2022-11-08 오후 4.21.59.png]()
+![스크린샷 2022-11-08 오후 4.21.59.png](https://user-images.githubusercontent.com/104723794/219259449-255b091f-6497-41d2-ab57-5b4e45a5762b.png)
 
 adminStudent.jsp에서 student_id를 받고 그 학생에 대한 정보를 얻을 수 있는  adminStudentAction.jsp로 이동함
 
 금학기 학생 시간표 조회
 
-![스크린샷 2022-11-08 오후 4.34.50.png]()
+![스크린샷 2022-11-08 오후 4.34.50.png](https://user-images.githubusercontent.com/104723794/219259450-93bf5f0e-5ac8-4938-8448-14c135391c98.png)
 
 학생페이지에서 쓰는 timeTable.jsp를 그대로 씀
 
 adminStudentActionCredit.jsp 학생의 학점을 보여줌
 
-![스크린샷 2022-11-08 오후 4.38.56.png]()
+![스크린샷 2022-11-08 오후 4.38.56.png](https://user-images.githubusercontent.com/104723794/219259454-e8d9f71f-444e-4f2b-b042-7181ffc3705e.png)
 
 adminStudentActionLecturer.jsp
 
 지도교수 조회
 
-![스크린샷 2022-11-08 오후 4.39.02.png]()
+![스크린샷 2022-11-08 오후 4.39.02.png](https://user-images.githubusercontent.com/104723794/219259458-5e80c738-dfe7-4a64-96fe-e3c9e63a922b.png)
 
 학생 조회/ 상태 변경
 
 현재 재학중 휴학으로 상태 변경
 
-![스크린샷 2022-11-08 오후 4.49.25.png]()
+![스크린샷 2022-11-08 오후 4.49.25.png](https://user-images.githubusercontent.com/104723794/219259461-179aad59-c2e6-4a4b-85f4-ae9f3505f4a3.png)
 
-![스크린샷 2022-11-08 오후 4.49.31.png]()
+![스크린샷 2022-11-08 오후 4.49.31.png](https://user-images.githubusercontent.com/104723794/219259462-1deb5202-f015-4c5e-a7f3-6a78f872d0dc.png)
 
-![스크린샷 2022-11-08 오후 4.49.38.png]()
+![스크린샷 2022-11-08 오후 4.49.38.png](https://user-images.githubusercontent.com/104723794/219259464-f05ff9fb-999d-4a49-8fc5-aacf856d985c.png)
 
 휴학으로 상태가 변경된 것을 알 수 있다.
 
-![스크린샷 2022-11-08 오후 4.50.03.png]()
+![스크린샷 2022-11-08 오후 4.50.03.png](https://user-images.githubusercontent.com/104723794/219259465-c8a7b7d3-8202-445d-ab83-6263f6f70d97.png)
 
 상태가 휴학으로 변경 됐으므로 수강신청한 강좌가 모두 취소된 것을 알 수 있다.
 
@@ -599,53 +599,53 @@ adminStudentActionLecturer.jsp
 
 과목증원
 
-![스크린샷 2022-11-08 오후 7.41.33.png]()
+![스크린샷 2022-11-08 오후 7.41.33.png](https://user-images.githubusercontent.com/104723794/219259471-81d6fe26-0613-47c0-a38a-1ecf9b7b9ea5.png)
 
-![스크린샷 2022-11-08 오후 7.41.50.png]()
+![스크린샷 2022-11-08 오후 7.41.50.png](https://user-images.githubusercontent.com/104723794/219259476-243a538c-03f1-4504-9e66-61d551057209.png)
 
-![스크린샷 2022-11-08 오후 7.41.54.png]()
+![스크린샷 2022-11-08 오후 7.41.54.png](https://user-images.githubusercontent.com/104723794/219259480-e310059b-a07e-47fb-aa52-3d96b5beaf4a.png)
 
-![스크린샷 2022-11-08 오후 7.42.03.png]()
+![스크린샷 2022-11-08 오후 7.42.03.png](https://user-images.githubusercontent.com/104723794/219259481-c441e007-2b76-44a4-b40e-ae04d1dcb700.png)
 
 2명이 증원된 것을 알 수 있다.
 
 ### 수강 허용 반영
 
-![스크린샷 2022-11-08 오후 8.21.40.png]()
+![스크린샷 2022-11-08 오후 8.21.40.png](https://user-images.githubusercontent.com/104723794/219259486-d1298c07-2991-4923-9a45-67cd18c233f4.png)
 
-![스크린샷 2022-11-08 오후 8.28.51.png]()
+![스크린샷 2022-11-08 오후 8.28.51.png](https://user-images.githubusercontent.com/104723794/219259540-38735217-0e16-48c0-9573-680320d04c07.png)
 
-![스크린샷 2022-11-08 오후 8.21.54.png]()
+![스크린샷 2022-11-08 오후 8.21.54.png](https://user-images.githubusercontent.com/104723794/219259489-adf4f82e-2f20-4f07-9d07-89862712a952.png)
 
-![스크린샷 2022-11-08 오후 8.22.13.png]()
+![스크린샷 2022-11-08 오후 8.22.13.png](https://user-images.githubusercontent.com/104723794/219259491-392afe5a-e587-4f7b-a1b2-0aaee5c10496.png)
 
-![스크린샷 2022-11-08 오후 8.22.37.png]()
+![스크린샷 2022-11-08 오후 8.22.37.png](https://user-images.githubusercontent.com/104723794/219259494-5fc6d40e-e29b-4a30-8084-933fab0f31df.png)
 
 수강허용이 반영된 것을 알 수 있다.
 
 과목설강
 
-![스크린샷 2022-11-08 오후 8.23.16.png]()
+![스크린샷 2022-11-08 오후 8.23.16.png](https://user-images.githubusercontent.com/104723794/219259496-29d5651e-376d-40b6-b58b-0a083dae02f8.png)
 
-![스크린샷 2022-11-08 오후 8.23.19.png]()
+![스크린샷 2022-11-08 오후 8.23.19.png](https://user-images.githubusercontent.com/104723794/219259503-33d6c594-b975-45b7-a8c1-7a10694b64a2.png)
 
 수강최대인원은 그 room의 수용량을 초과할 수 없기 때문에 제약조건이 발생한다.
 
-![스크린샷 2022-11-08 오후 8.23.26.png]()
+![스크린샷 2022-11-08 오후 8.23.26.png](https://user-images.githubusercontent.com/104723794/219259506-6dcc74c2-841c-4e95-9991-6151a4fbdd9c.png)
 
-![스크린샷 2022-11-08 오후 8.23.29.png]()
+![스크린샷 2022-11-08 오후 8.23.29.png](https://user-images.githubusercontent.com/104723794/219259518-34d62cfa-1102-405d-a39a-45b1dbaac975.png)
 
-![스크린샷 2022-11-08 오후 8.23.45.png]()
+![스크린샷 2022-11-08 오후 8.23.45.png](https://user-images.githubusercontent.com/104723794/219259521-5f5f2574-993e-494d-b183-da7fdc681e8f.png)
 
 수강정원을 10명으로 바꾸자 과목 설강이 완료되었다.
 
 ### 과목 폐강
 
-![스크린샷 2022-11-08 오후 8.23.59.png]()
+![스크린샷 2022-11-08 오후 8.23.59.png](https://user-images.githubusercontent.com/104723794/219259528-66dc0297-4237-4acc-9a3c-0e1fef789cc2.png)
 
-![스크린샷 2022-11-08 오후 8.24.04.png]()
+![스크린샷 2022-11-08 오후 8.24.04.png](https://user-images.githubusercontent.com/104723794/219259532-80eea132-feb7-445d-97a3-e0110502eb49.png)
 
-![스크린샷 2022-11-08 오후 8.24.15.png]()
+![스크린샷 2022-11-08 오후 8.24.15.png](https://user-images.githubusercontent.com/104723794/219259535-f4aa4d92-0baf-444d-a29a-54d641b07bb8.png)
 
 과목 폐강이 완료된 것을 알 수 있다.
 
@@ -653,11 +653,11 @@ adminStudentActionLecturer.jsp
 
 adminCourseOlap.jsp
 
-![스크린샷 2022-11-08 오후 5.05.37.png]()
+![스크린샷 2022-11-08 오후 5.05.37.png](https://user-images.githubusercontent.com/104723794/219259466-c53a0db0-f052-4465-9f09-5b52f17e69f4.png)
 
 로그아웃시 logoutAction.jsp에서 처리하고 main.jsp로 이동
 
-![스크린샷 2022-11-08 오후 5.06.45.png]()
+![스크린샷 2022-11-08 오후 5.06.45.png](https://user-images.githubusercontent.com/104723794/219259467-ac896a4e-6d6c-49b2-a60e-12e3330cb62f.png)
 
 **사이트 디자인 구성 계획**
 
@@ -678,7 +678,7 @@ adminCourseOlap.jsp
 
 수강편람 및 신청 사이트 계획 예시
 
-![스크린샷 2022-10-31 오후 4.38.44.png]()
+![스크린샷 2022-10-31 오후 4.38.44.png](https://user-images.githubusercontent.com/104723794/219259311-40c614ca-2a67-4a62-93c7-00562a6a84e3.png)
 
 ********************************************************************************요구사항이 반영된 SQL문******************************************************************************** 
 
