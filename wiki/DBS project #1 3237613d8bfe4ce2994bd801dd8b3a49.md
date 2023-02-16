@@ -24,7 +24,7 @@ macOS Monterey 12.3.1
 
 **SECHEMA 디자인**
 
-![스크린샷 2022-11-08 오전 11.44.01.png](./DBS%20project%20#1%203237613d8bfe4ce2994bd801dd8b3a49/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-08_%25EC%2598%25A4%25EC%25A0%2584_11.44.01.png)
+![스크린샷 2022-11-08 오전 11.44.01.png]([htt](https://github.com/H2ll0World/application_for_class/tree/main/wiki/DBS%20project%20#1%203237613d8bfe4ce2994bd801dd8b3a49/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2022-11-08_%25EC%2598%25A4%25EC%25A0%2584_11.44.01.png)
 
 기본적으로 제공해준 스키마를 사용했지만, 약간의 수정이 있습니다.
 
